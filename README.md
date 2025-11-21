@@ -47,7 +47,6 @@ Tray menu includes:
 
 ## 📸 Screenshots
 
-> Add your own screenshots inside `screenshots/` folder for these to work.
 
 Example:
 
